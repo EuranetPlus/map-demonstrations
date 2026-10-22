@@ -1,0 +1,11 @@
+{
+  "title": "Kje Evropejci najpogosteje zaidejo na ulice?",
+  "subtitle": "Leta 2025 je ACLED zabeležil 26.592 demonstracij po vsej EU-27, kar ustreza 5,90 na 100.000 prebivalcev.",
+  "textNoteDescription": "Opomba",
+  "textNote": "Podatki vključujejo mirne proteste in nasilne demonstracije, ki jih je ACLED zabeležil leta 2025. Stopnje so bile izračunane na 100.000 prebivalcev z uporabo podatkov Eurostata o prebivalstvu na dan 1. januarja 2025 (demo_pjan). Številke predstavljajo zabeležene dogodke, ne števila udeležencev. Razlike v poročanju lahko vplivajo na primerjave med državami. Podatki o Cipru niso uporabni, saj sta v naboru podatkov upoštevana oba dela Cipra.",
+  "textSourceDescription": "Vir",
+  "textSource": "Projekt podatkov o lokacijah in dogodkih oboroženih spopadov (ACLED)",
+  "linkDataAccessDescription": "Dostop do podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj"
+}
