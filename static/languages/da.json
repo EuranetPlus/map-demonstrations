@@ -1,0 +1,11 @@
+{
+  "title": "Hvor går europæere oftest på gaden?",
+  "subtitle": "I 2025 registrerede ACLED 26.592 demonstrationer i EU27, hvilket svarer til 5,90 pr. 100.000 indbyggere.",
+  "textNoteDescription": "Note",
+  "textNote": "Dataene omfatter fredelige protester og voldelige demonstrationer registreret af ACLED i 2025. Raterne blev beregnet pr. 100.000 indbyggere ved hjælp af Eurostats befolkningstal pr. 1. januar 2025 (demo_pjan). Tallene repræsenterer registrerede begivenheder, ikke antallet af deltagere. Forskelle i rapporteringsdækningen kan påvirke sammenligninger mellem landene. Data om Cypern er ikke brugbare, da begge dele af Cypern er respekteret i datasættet.",
+  "textSourceDescription": "Kilde",
+  "textSource": "Projekt om data om placering og begivenheder i væbnede konflikter (ACLED)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her"
+}
