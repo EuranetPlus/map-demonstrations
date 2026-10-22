@@ -1,0 +1,11 @@
+{
+  "title": "Where do Europeans take to the streets most often?",
+  "subtitle": "In 2025, ACLED recorded 26 592 demonstrations across the EU27, equivalent to 5.90 per 100 000 inhabitants.",
+  "textNoteDescription": "Note",
+  "textNote": "The data include peaceful protests and violent demonstrations recorded by ACLED in 2025. Rates were calculated per 100,000 inhabitants using Eurostat population figures as of 1 January 2025 (demo_pjan). The figures represent recorded events, not the number of participants. Differences in reporting coverage may affect comparisons between countries. Data on Cyprus not usable as both parts of Cyprus are respected in the data set.",
+  "textSourceDescription": "Source",
+  "textSource": "Armed Conflict Location & Event Data Project (ACLED)",
+  "linkDataAccessDescription": "Access the data",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here"
+}
