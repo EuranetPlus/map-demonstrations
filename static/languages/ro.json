@@ -1,0 +1,11 @@
+{
+  "title": "Unde ies europenii cel mai des în stradă?",
+  "subtitle": "În 2025, ACLED a înregistrat 26.592 de demonstrații în UE-27, echivalentul a 5,90 la 100.000 de locuitori.",
+  "textNoteDescription": "Nota",
+  "textNote": "Datele includ proteste pașnice și demonstrații violente înregistrate de ACLED în 2025. Ratele au fost calculate la 100.000 de locuitori folosind cifrele Eurostat privind populația la 1 ianuarie 2025 (demo_pjan). Cifrele reprezintă evenimente înregistrate, nu numărul de participanți. Diferențele în acoperirea raportării pot afecta comparațiile între țări. Datele privind Ciprul nu sunt utilizabile, deoarece ambele părți ale Ciprului sunt respectate în setul de date.",
+  "textSourceDescription": "Sursă",
+  "textSource": "Proiectul de date privind locațiile și evenimentele conflictelor armate (ACLED)",
+  "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici"
+}
