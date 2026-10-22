@@ -1,11 +1,13 @@
 {
-  "title": "Fejn joħorġu l-Ewropej fit-toroq l-aktar spiss?",
-  "subtitle": "Fl-2025, l-ACLED irreġistrat 26 592 dimostrazzjoni madwar l-UE27, ekwivalenti għal 5.90 għal kull 100 000 abitant.",
+  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
+  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
   "textNoteDescription": "Nota",
-  "textNote": "Id-dejta tinkludi protesti paċifiċi u dimostrazzjonijiet vjolenti rreġistrati mill-ACLED fl-2025. Ir-rati ġew ikkalkulati għal kull 100,000 abitant bl-użu taċ-ċifri tal-popolazzjoni tal-Eurostat mill-1 ta' Jannar 2025 (demo_pjan). Iċ-ċifri jirrappreżentaw avvenimenti rreġistrati, mhux in-numru ta' parteċipanti. Id-differenzi fil-kopertura tar-rappurtar jistgħu jaffettwaw it-tqabbil bejn il-pajjiżi. Id-dejta dwar Ċipru mhijiex utilizzabbli peress li ż-żewġ partijiet ta' Ċipru huma rispettati fis-sett tad-dejta.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Sors",
-  "textSource": "Proġett ta' Dejta dwar il-Lokazzjoni u l-Avvenimenti ta' Kunflitt Armat (ACLED)",
-  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "textSource": "sdcshdc",
+  "linkDataAccessDescription": "Aċċessa għad-data",
+  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
+  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }

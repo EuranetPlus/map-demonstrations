@@ -1,11 +1,13 @@
 {
-  "title": "Où les Européens descendent-ils le plus souvent dans la rue ?",
-  "subtitle": "En 2025, ACLED a enregistré 26 592 manifestations dans l'UE27, soit 5,90 pour 100 000 habitants.",
+  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
+  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
   "textNoteDescription": "Note",
-  "textNote": "Les données incluent les manifestations pacifiques et les manifestations violentes recensées par ACLED en 2025. Les taux ont été calculés pour 100 000 habitants à partir des chiffres de population d’Eurostat au 1er janvier 2025 (demo_pjan). Les chiffres représentent le nombre d’événements recensés, et non le nombre de participants. Les différences de couverture des signalements peuvent affecter les comparaisons entre pays. Les données relatives à Chypre ne sont pas utilisables, car les deux parties de l’île sont prises en compte dans l’ensemble de données.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Source",
-  "textSource": "Projet de données sur les lieux et les événements des conflits armés (ACLED)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Accéder aux données",
+  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
+  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }

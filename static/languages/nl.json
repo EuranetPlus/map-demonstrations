@@ -1,11 +1,13 @@
 {
-  "title": "Waar gaan Europeanen het vaakst de straat op?",
-  "subtitle": "In 2025 registreerde ACLED 26.592 demonstraties in de EU27, wat overeenkomt met 5,90 per 100.000 inwoners.",
+  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
+  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "De gegevens omvatten vreedzame protesten en gewelddadige demonstraties die in 2025 door ACLED zijn geregistreerd. De aantallen zijn berekend per 100.000 inwoners met behulp van de bevolkingscijfers van Eurostat per 1 januari 2025 (demo_pjan). De cijfers vertegenwoordigen geregistreerde gebeurtenissen, niet het aantal deelnemers. Verschillen in de rapportagedekking kunnen vergelijkingen tussen landen beïnvloeden. Gegevens over Cyprus zijn niet bruikbaar, aangezien beide delen van Cyprus in de dataset worden behandeld.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Bron",
-  "textSource": "Project voor gegevens over locaties en gebeurtenissen in gewapende conflicten (ACLED)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
+  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }

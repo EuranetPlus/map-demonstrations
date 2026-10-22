@@ -1,11 +1,13 @@
 {
-  "title": "Cá mbíonn Eorpaigh ag dul amach ar na sráideanna is minice?",
-  "subtitle": "Sa bhliain 2025, thaifead ACLED 26,592 léirsiú ar fud an AE27, arb ionann é agus 5.90 in aghaidh gach 100,000 áitritheoir.",
+  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
+  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
   "textNoteDescription": "Nóta",
-  "textNote": "Áirítear sna sonraí agóidí síochánta agus léirsithe foréigneacha a thaifead ACLED in 2025. Rinneadh na rátaí a ríomh in aghaidh gach 100,000 áitritheoir ag baint úsáide as figiúirí daonra Eurostat amhail an 1 Eanáir 2025 (demo_pjan). Léiríonn na figiúirí imeachtaí taifeadta, ní líon na rannpháirtithe. D’fhéadfadh difríochtaí i gclúdach tuairiscithe difear a dhéanamh do chomparáidí idir tíortha. Ní féidir sonraí faoin gCipir a úsáid mar go bhfuil meas ar an dá chuid den Chipir sa tacar sonraí.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Foinse",
-  "textSource": "Tionscadal Sonraí Suímh & Imeachtaí Coinbhleachta Armtha (ACLED)",
-  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "textSource": "sdcshdc",
+  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
+  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
+  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }

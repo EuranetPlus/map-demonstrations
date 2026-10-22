@@ -1,11 +1,13 @@
 {
-  "title": "Kde Evropané nejčastěji vycházejí do ulic?",
-  "subtitle": "V roce 2025 zaznamenala ACLED 26 592 demonstrací v celé EU-27, což odpovídá 5,90 na 100 000 obyvatel.",
+  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
+  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "Data zahrnují pokojné protesty a násilné demonstrace zaznamenané ACLED v roce 2025. Míry byly vypočítány na 100 000 obyvatel s využitím údajů Eurostatu o počtu obyvatel k 1. lednu 2025 (demo_pjan). Údaje představují zaznamenané události, nikoli počet účastníků. Rozdíly v pokrytí hlášení mohou ovlivnit srovnání mezi zeměmi. Data o Kypru nejsou použitelná, protože v datové sadě jsou zohledněny obě části Kypru.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Zdroj",
-  "textSource": "Projekt dat o místech a událostech ozbrojených konfliktů (ACLED)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Přístup k datům",
-  "legend1": "Nejsou k dispozici žádná data",
+  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
+  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
+  "legend1": "Nejsou k dispozici žádné údaje",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }

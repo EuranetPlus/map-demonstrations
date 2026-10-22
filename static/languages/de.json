@@ -1,11 +1,13 @@
 {
-  "title": "Wo gehen die Europäer am häufigsten auf die Straße?",
-  "subtitle": "Im Jahr 2025 verzeichnete ACLED 26.592 Demonstrationen in der gesamten EU27, was 5,90 pro 100.000 Einwohner entspricht.",
+  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
+  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Daten umfassen friedliche Proteste und gewalttätige Demonstrationen, die von ACLED im Jahr 2025 erfasst wurden. Die Raten wurden pro 100.000 Einwohner anhand der Eurostat-Bevölkerungszahlen vom 1. Januar 2025 (demo_pjan) berechnet. Die Zahlen geben die erfassten Ereignisse wieder, nicht die Teilnehmerzahl. Unterschiede in der Erfassungsquote können Vergleiche zwischen Ländern beeinflussen. Daten zu Zypern sind nicht verwendbar, da beide Teile Zyperns im Datensatz berücksichtigt werden.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Quelle",
-  "textSource": "Projekt zur Erfassung von Standort- und Ereignisdaten bewaffneter Konflikte (ACLED)",
-  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "textSource": "Abonnieren",
+  "linkDataAccessDescription": "Zugriff auf die Daten",
+  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
+  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
