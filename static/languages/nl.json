@@ -1,0 +1,11 @@
+{
+  "title": "Waar gaan Europeanen het vaakst de straat op?",
+  "subtitle": "In 2025 registreerde ACLED 26.592 demonstraties in de EU27, wat overeenkomt met 5,90 per 100.000 inwoners.",
+  "textNoteDescription": "Opmerking",
+  "textNote": "De gegevens omvatten vreedzame protesten en gewelddadige demonstraties die in 2025 door ACLED zijn geregistreerd. De aantallen zijn berekend per 100.000 inwoners met behulp van de bevolkingscijfers van Eurostat per 1 januari 2025 (demo_pjan). De cijfers vertegenwoordigen geregistreerde gebeurtenissen, niet het aantal deelnemers. Verschillen in de rapportagedekking kunnen vergelijkingen tussen landen beïnvloeden. Gegevens over Cyprus zijn niet bruikbaar, aangezien beide delen van Cyprus in de dataset worden behandeld.",
+  "textSourceDescription": "Bron",
+  "textSource": "Project voor gegevens over locaties en gebeurtenissen in gewapende conflicten (ACLED)",
+  "linkDataAccessDescription": "Toegang tot de gegevens",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltipExtraInfoLabel": "Klik hier"
+}
