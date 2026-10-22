@@ -1,0 +1,11 @@
+{
+  "title": "Var går européer ut på gatorna oftast?",
+  "subtitle": "År 2025 registrerade ACLED 26 592 demonstrationer i EU27, vilket motsvarar 5,90 per 100 000 invånare.",
+  "textNoteDescription": "Notera",
+  "textNote": "Uppgifterna inkluderar fredliga protester och våldsamma demonstrationer som registrerats av ACLED år 2025. Andelen beräknades per 100 000 invånare med hjälp av Eurostats befolkningssiffror per den 1 januari 2025 (demo_pjan). Siffrorna representerar registrerade händelser, inte antalet deltagare. Skillnader i rapporteringstäckning kan påverka jämförelser mellan länder. Uppgifter om Cypern är inte användbara eftersom båda delarna av Cypern beaktas i datamängden.",
+  "textSourceDescription": "Källa",
+  "textSource": "Projekt för data om plats och händelser i väpnad konflikt (ACLED)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "legend1": "Inga data tillgängliga",
+  "tooltipExtraInfoLabel": "Klicka här"
+}
