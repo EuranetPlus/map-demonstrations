@@ -1,0 +1,11 @@
+{
+  "title": "Kus eurooplased kõige sagedamini tänavatele lähevad?",
+  "subtitle": "2025. aastal registreeris ACLED EL 27-s 26 592 meeleavaldust, mis teeb 5,90 meeleavaldust 100 000 elaniku kohta.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Andmed hõlmavad ACLEDi poolt 2025. aastal registreeritud rahumeelseid proteste ja vägivaldseid meeleavaldusi. Määrad arvutati 100 000 elaniku kohta, kasutades Eurostati rahvastikuandmeid seisuga 1. jaanuar 2025 (demo_pjan). Arvud kajastavad registreeritud sündmusi, mitte osalejate arvu. Aruandluse ulatuse erinevused võivad mõjutada riikidevahelisi võrdlusi. Küprose andmed ei ole kasutatavad, kuna andmekogumis on arvesse võetud Küprose mõlemat osa.",
+  "textSourceDescription": "Allikas",
+  "textSource": "Relvastatud konfliktide asukoha ja sündmuste andmeprojekt (ACLED)",
+  "linkDataAccessDescription": "Juurdepääs andmetele",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
+}
