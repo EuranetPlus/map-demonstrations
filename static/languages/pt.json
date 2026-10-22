@@ -1,0 +1,11 @@
+{
+  "title": "Onde os europeus costumam ir às ruas com mais frequência?",
+  "subtitle": "Em 2025, a ACLED registou 26 592 manifestações em toda a UE27, o equivalente a 5,90 por cada 100 000 habitantes.",
+  "textNoteDescription": "Observação",
+  "textNote": "Os dados incluem protestos pacíficos e manifestações violentas registados pela ACLED em 2025. As taxas foram calculadas por 100.000 habitantes, utilizando os dados populacionais do Eurostat referentes a 1 de janeiro de 2025 (demo_pjan). Os números representam os eventos registados, não o número de participantes. As diferenças na cobertura dos relatórios podem afetar as comparações entre países. Os dados relativos ao Chipre não são utilizáveis, uma vez que ambas as partes do Chipre são consideradas no conjunto de dados.",
+  "textSourceDescription": "Fonte",
+  "textSource": "Projeto de Dados sobre Localização e Eventos de Conflitos Armados (ACLED)",
+  "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui"
+}
