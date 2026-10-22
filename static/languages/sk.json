@@ -1,0 +1,11 @@
+{
+  "title": "Kde Európania najčastejšie vychádzajú do ulíc?",
+  "subtitle": "V roku 2025 zaznamenala ACLED 26 592 demonštrácií v celej EÚ27, čo zodpovedá 5,90 na 100 000 obyvateľov.",
+  "textNoteDescription": "Poznámka",
+  "textNote": "Údaje zahŕňajú pokojné protesty a násilné demonštrácie, ktoré zaznamenal ACLED v roku 2025. Miery boli vypočítané na 100 000 obyvateľov s použitím údajov Eurostatu o počte obyvateľov k 1. januáru 2025 (demo_pjan). Údaje predstavujú zaznamenané udalosti, nie počet účastníkov. Rozdiely v pokrytí hlásení môžu ovplyvniť porovnania medzi krajinami. Údaje o Cypre nie sú použiteľné, pretože v súbore údajov sú zohľadňované obe časti Cypru.",
+  "textSourceDescription": "Zdroj",
+  "textSource": "Projekt údajov o miestach a udalostiach ozbrojených konfliktov (ACLED)",
+  "linkDataAccessDescription": "Prístup k údajom",
+  "legend1": "Nie sú k dispozícii žiadne údaje",
+  "tooltipExtraInfoLabel": "Kliknite sem"
+}
