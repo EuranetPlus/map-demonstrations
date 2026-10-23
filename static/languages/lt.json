@@ -1,13 +1,13 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kur europiečiai dažniausiai išeina į gatves?",
+  "subtitle": "2025 m. ACLED užregistravo 26 592 demonstracijas visoje ES 27, tai atitinka 5,90 demonstracijų 100 000 piliečių.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Duomenys apima taikius protestus ir smurtines demonstracijas, kurias ACLED užfiksavo 2025 m. Rodikliai buvo apskaičiuoti 100 000 piliečių, naudojant „Eurostat“ gyventojų skaičiaus duomenis 2025 m. sausio 1 d. (demo_pjan). Šie skaičiai atspindi užregistruotus įvykius, o ne dalyvių skaičių. Ataskaitų aprėpties skirtumai gali turėti įtakos šalių palyginimui.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Ginkluotų konfliktų vietos ir įvykių duomenų projektas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "extraInfo_CY": "atskirų duomenų apie Kipro Respubliką nėra",
+  "customUnitLabel": "demonstracijų 100 000 piliečių"
 }

@@ -1,13 +1,13 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Var går européer ut på gatorna oftast?",
+  "subtitle": "År 2025 registrerade ACLED 26 592 demonstrationer i EU27, vilket motsvarar 5,90 per 100 000 medborgare.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Uppgifterna inkluderar fredliga protester och våldsamma demonstrationer som registrerats av ACLED år 2025. Andelen beräknades per 100 000 medborgare med hjälp av Eurostats befolkningssiffror per den 1 januari 2025 (demo_pjan). Siffrorna representerar registrerade händelser, inte antalet deltagare. Skillnader i rapporteringstäckning kan påverka jämförelser mellan länder.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Projekt för data om plats och händelser i väpnad konflikt (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "extraInfo_CY": "inga separata uppgifter för Republiken Cypern",
+  "customUnitLabel": "demonstrationer per 100 000 invånare"
 }

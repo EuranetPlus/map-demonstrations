@@ -1,13 +1,13 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hol mennek utcára leggyakrabban az európaiak?",
+  "subtitle": "2025-ben az ACLED 26 592 tüntetést regisztrált az EU 27 tagállamában, ami 100 000 polgárra vetítve 5,90 tüntetésnek felel meg.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az adatok tartalmazzák az ACLED által 2025-ben rögzített békés tüntetéseket és erőszakos tüntetéseket. Az arányokat 100 000 állampolgárra vetítve számították ki az Eurostat 2025. január 1-jei népességi adatai alapján (demo_pjan). Az adatok a rögzített eseményeket jelentik, nem a résztvevők számát. A jelentéstételi lefedettségbeli eltérések befolyásolhatják az országok közötti összehasonlításokat.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Fegyveres konfliktusok helyszínének és eseményeinek adatprojektje (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "extraInfo_CY": "nincsenek külön adatok a Ciprusi Köztársaságról",
+  "customUnitLabel": "tüntetések száma 100 000 polgárra vetítve"
 }

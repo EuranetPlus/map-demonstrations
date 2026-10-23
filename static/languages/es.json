@@ -1,13 +1,13 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Dónde suelen salir los europeos a la calle con más frecuencia?",
+  "subtitle": "En 2025, ACLED registró 26 592 manifestaciones en los 27 países de la UE, lo que equivale a 5,90 por cada 100 000 ciudadanos.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los datos incluyen protestas pacíficas y manifestaciones violentas registradas por ACLED en 2025. Las tasas se calcularon por cada 100 000 habitantes utilizando las cifras de población de Eurostat al 1 de enero de 2025 (demo_pjan). Las cifras representan los eventos registrados, no el número de participantes. Las diferencias en la cobertura de los informes pueden afectar las comparaciones entre países.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Proyecto de datos sobre la ubicación y los eventos de conflictos armados (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "extraInfo_CY": "No hay datos separados para la República de Chipre.",
+  "customUnitLabel": "manifestaciones por cada 100.000 ciudadanos"
 }

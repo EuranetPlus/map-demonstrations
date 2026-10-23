@@ -1,13 +1,13 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Gdje Europljani najčešće izlaze na ulice?",
+  "subtitle": "ACLED je 2025. godine zabilježio 26 592 demonstracija diljem EU27, što je ekvivalentno 5,90 na 100 000 građana.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Podaci uključuju mirne prosvjede i nasilne demonstracije koje je ACLED zabilježio 2025. godine. Stope su izračunate na 100.000 građana korištenjem podataka Eurostata o stanovništvu od 1. siječnja 2025. (demo_pjan). Brojke predstavljaju zabilježene događaje, a ne broj sudionika. Razlike u izvještavanju mogu utjecati na usporedbe između zemalja.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Projekt podataka o lokaciji i događajima oružanih sukoba (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "extraInfo_CY": "nema zasebnih podataka za Republiku Cipar",
+  "customUnitLabel": "demonstracija na 100.000 građana"
 }

@@ -1,13 +1,13 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Gdzie Europejczycy najczęściej wychodzą na ulice?",
+  "subtitle": "W 2025 r. ACLED odnotowało 26 592 demonstracji w 27 państwach członkowskich UE, co odpowiada 5,90 demonstracjom na 100 000 obywateli.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane obejmują pokojowe protesty i gwałtowne demonstracje zarejestrowane przez ACLED w 2025 roku. Wskaźniki obliczono na 100 000 obywateli, wykorzystując dane Eurostatu dotyczące liczby ludności na dzień 1 stycznia 2025 roku (demo_pjan). Liczby te dotyczą zarejestrowanych wydarzeń, a nie liczby uczestników. Różnice w zakresie raportowania mogą mieć wpływ na porównania między krajami.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Projekt danych o lokalizacji i wydarzeniach konfliktów zbrojnych (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "extraInfo_CY": "brak oddzielnych danych dla Republiki Cypryjskiej",
+  "customUnitLabel": "demonstracje na 100 000 obywateli"
 }

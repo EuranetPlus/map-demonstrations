@@ -1,13 +1,13 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kur eiropieši visbiežāk dodas ielās?",
+  "subtitle": "2025. gadā ACLED reģistrēja 26 592 demonstrācijas visā ES 27 dalībvalstīs, kas atbilst 5,90 demonstrācijām uz 100 000 iedzīvotāju.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Dati ietver miermīlīgus protestus un vardarbīgas demonstrācijas, ko ACLED reģistrēja 2025. gadā. Rādītāji tika aprēķināti uz 100 000 iedzīvotāju, izmantojot Eurostat iedzīvotāju skaita datus uz 2025. gada 1. janvāri (demo_pjan). Šie skaitļi atspoguļo reģistrētos notikumus, nevis dalībnieku skaitu. Atšķirības ziņošanas aptvērumā var ietekmēt salīdzinājumus starp valstīm.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Bruņotu konfliktu atrašanās vietas un notikumu datu projekts (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "extraInfo_CY": "nav atsevišķu datu par Kipras Republiku",
+  "customUnitLabel": "demonstrācijas uz 100 000 iedzīvotāju"
 }

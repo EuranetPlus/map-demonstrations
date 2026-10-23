@@ -1,13 +1,13 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kus eurooplased kõige sagedamini tänavatele lähevad?",
+  "subtitle": "2025. aastal registreeris ACLED EL 27-s 26 592 meeleavaldust, mis teeb 5,90 meeleavaldust 100 000 kodaniku kohta.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Andmed hõlmavad ACLEDi poolt 2025. aastal registreeritud rahumeelseid proteste ja vägivaldseid meeleavaldusi. Määrad arvutati 100 000 kodaniku kohta, kasutades Eurostati rahvastikuandmeid seisuga 1. jaanuar 2025 (demo_pjan). Arvud kajastavad registreeritud sündmusi, mitte osalejate arvu. Aruandluse ulatuse erinevused võivad mõjutada riikidevahelisi võrdlusi.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Relvastatud konfliktide asukoha ja sündmuste andmeprojekt (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "extraInfo_CY": "Küprose Vabariigi kohta eraldi andmed puuduvad",
+  "customUnitLabel": "meeleavaldusi 100 000 kodaniku kohta"
 }

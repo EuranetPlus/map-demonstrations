@@ -1,13 +1,13 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Kde Európania najčastejšie vychádzajú do ulíc?",
+  "subtitle": "V roku 2025 zaznamenala ACLED 26 592 demonštrácií v celej EÚ27, čo zodpovedá 5,90 na 100 000 občanov.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje zahŕňajú pokojné protesty a násilné demonštrácie zaznamenané ACLED v roku 2025. Miery boli vypočítané na 100 000 občanov s použitím údajov Eurostatu o počte obyvateľov k 1. januáru 2025 (demo_pjan). Čísla predstavujú zaznamenané udalosti, nie počet účastníkov. Rozdiely v pokrytí hlásení môžu ovplyvniť porovnania medzi krajinami.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Projekt údajov o miestach a udalostiach ozbrojených konfliktov (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "extraInfo_CY": "žiadne samostatné údaje pre Cyperskú republiku",
+  "customUnitLabel": "demonštrácie na 100 000 obyvateľov"
 }

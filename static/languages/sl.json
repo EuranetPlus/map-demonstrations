@@ -1,13 +1,13 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kje Evropejci najpogosteje zaidejo na ulice?",
+  "subtitle": "Leta 2025 je ACLED zabeležil 26.592 demonstracij po vsej EU-27, kar ustreza 5,90 na 100.000 državljanov.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Podatki vključujejo mirne proteste in nasilne demonstracije, ki jih je ACLED zabeležil leta 2025. Stopnje so bile izračunane na 100.000 državljanov z uporabo podatkov Eurostata o prebivalstvu na dan 1. januarja 2025 (demo_pjan). Številke predstavljajo zabeležene dogodke, ne števila udeležencev. Razlike v poročanju lahko vplivajo na primerjave med državami.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Projekt podatkov o lokacijah in dogodkih oboroženih spopadov (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "extraInfo_CY": "ni ločenih podatkov za Republiko Ciper",
+  "customUnitLabel": "demonstracij na 100.000 državljanov"
 }
