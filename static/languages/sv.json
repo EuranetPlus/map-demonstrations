@@ -1,10 +1,10 @@
 {
   "title": "Var går européer ut på gatorna oftast?",
-  "subtitle": "År 2025 registrerade ACLED 26 592 demonstrationer i EU27, vilket motsvarar 5,90 per 100 000 medborgare.",
+  "subtitle": "Totalt ägde 26 592 demonstrationer rum i Europeiska unionen under 2025.",
   "textNoteDescription": "Notera",
   "textNote": "Uppgifterna inkluderar fredliga protester och våldsamma demonstrationer som registrerats av ACLED år 2025. Andelen beräknades per 100 000 medborgare med hjälp av Eurostats befolkningssiffror per den 1 januari 2025 (demo_pjan). Siffrorna representerar registrerade händelser, inte antalet deltagare. Skillnader i rapporteringstäckning kan påverka jämförelser mellan länder.",
   "textSourceDescription": "Källa",
-  "textSource": "Projekt för data om plats och händelser i väpnad konflikt (2026)",
+  "textSource": "Projekt för data om plats och händelser i väpnad konflikt - ACLED (2026)",
   "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här",

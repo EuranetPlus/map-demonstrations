@@ -2,7 +2,7 @@ import { writable } from 'svelte/store';
 
 export const mapConfig = writable({
   "title": "Where do Europeans take to the streets most often?",
-  "subtitle": "In 2025, ACLED recorded 26 592 demonstrations across the EU27, equivalent to 5.90 per 100 000 citizens.",
+  "subtitle": "A total of 26,592 demonstrations took place across the European Union in 2025.",
   "datasetType": "values",
   "datasetUnit": "fullNumbers",
   "percentRounded": false,
@@ -18,7 +18,7 @@ export const mapConfig = writable({
   "legendAvailable": true,
   "textSourceAvailable": true,
   "textSourceDescription": "Source",
-  "textSource": "Armed Conflict Location & Event Data Project (2026)",
+  "textSource": "Armed Conflict Location & Event Data Project - ACLED (2026)",
   "textNoteAvailable": true,
   "textNoteDescription": "Note",
   "textNote": "The data include peaceful protests and violent demonstrations recorded by ACLED in 2025. Rates were calculated per 100,000 citizens using Eurostat population figures as of 1 January 2025 (demo_pjan). The figures represent recorded events, not the number of participants. Differences in reporting coverage may affect comparisons between countries.",
@@ -441,11 +441,11 @@ export const mapConfig = writable({
   "colorScale": null,
   "translate": {
     "title": "Where do Europeans take to the streets most often?",
-    "subtitle": "In 2025, ACLED recorded 26 592 demonstrations across the EU27, equivalent to 5.90 per 100 000 citizens.",
+    "subtitle": "A total of 26,592 demonstrations took place across the European Union in 2025.",
     "textNoteDescription": "Note",
     "textNote": "The data include peaceful protests and violent demonstrations recorded by ACLED in 2025. Rates were calculated per 100,000 citizens using Eurostat population figures as of 1 January 2025 (demo_pjan). The figures represent recorded events, not the number of participants. Differences in reporting coverage may affect comparisons between countries.",
     "textSourceDescription": "Source",
-    "textSource": "Armed Conflict Location & Event Data Project (2026)",
+    "textSource": "Armed Conflict Location & Event Data Project - ACLED (2026)",
     "linkDataAccessDescription": "Access the data",
     "legend1": "No data available",
     "tooltipExtraInfoLabel": "Click here",

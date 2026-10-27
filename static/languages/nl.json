@@ -1,10 +1,10 @@
 {
   "title": "Waar gaan Europeanen het vaakst de straat op?",
-  "subtitle": "In 2025 registreerde ACLED 26.592 demonstraties in de EU27, wat neerkomt op 5,90 per 100.000 inwoners.",
+  "subtitle": "In 2025 vonden er in totaal 26.592 demonstraties plaats in de Europese Unie.",
   "textNoteDescription": "Opmerking",
   "textNote": "De gegevens omvatten vreedzame protesten en gewelddadige demonstraties die in 2025 door ACLED zijn geregistreerd. De percentages zijn berekend per 100.000 inwoners op basis van de bevolkingscijfers van Eurostat per 1 januari 2025 (demo_pjan). De cijfers vertegenwoordigen geregistreerde gebeurtenissen, niet het aantal deelnemers. Verschillen in de rapportagedekking kunnen van invloed zijn op vergelijkingen tussen landen.",
   "textSourceDescription": "Bron",
-  "textSource": "Project voor gegevens over locaties en gebeurtenissen in gewapende conflicten (2026)",
+  "textSource": "Project voor gegevens over locaties en gebeurtenissen in gewapende conflicten - ACLED (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier",

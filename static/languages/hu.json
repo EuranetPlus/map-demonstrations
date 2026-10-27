@@ -1,10 +1,10 @@
 {
   "title": "Hol mennek utcára leggyakrabban az európaiak?",
-  "subtitle": "2025-ben az ACLED 26 592 tüntetést regisztrált az EU 27 tagállamában, ami 100 000 polgárra vetítve 5,90 tüntetésnek felel meg.",
+  "subtitle": "2025-ben összesen 26 592 tüntetésre került sor az Európai Unióban.",
   "textNoteDescription": "Jegyzet",
   "textNote": "Az adatok tartalmazzák az ACLED által 2025-ben rögzített békés tüntetéseket és erőszakos tüntetéseket. Az arányokat 100 000 állampolgárra vetítve számították ki az Eurostat 2025. január 1-jei népességi adatai alapján (demo_pjan). Az adatok a rögzített eseményeket jelentik, nem a résztvevők számát. A jelentéstételi lefedettségbeli eltérések befolyásolhatják az országok közötti összehasonlításokat.",
   "textSourceDescription": "Forrás",
-  "textSource": "Fegyveres konfliktusok helyszínének és eseményeinek adatprojektje (2026)",
+  "textSource": "Fegyveres konfliktusok helyszínének és eseményeinek adatait feldolgozó projekt - ACLED (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
   "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide",

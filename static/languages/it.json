@@ -1,10 +1,10 @@
 {
   "title": "Dove gli europei scendono più spesso in piazza?",
-  "subtitle": "Nel 2025, ACLED ha registrato 26.592 manifestazioni in tutta l'UE27, pari a 5,90 ogni 100.000 cittadini.",
+  "subtitle": "Nel 2025 si sono svolte complessivamente 26.592 manifestazioni in tutta l'Unione Europea.",
   "textNoteDescription": "Nota",
   "textNote": "I dati includono proteste pacifiche e manifestazioni violente registrate da ACLED nel 2025. I tassi sono stati calcolati ogni 100.000 abitanti utilizzando i dati demografici di Eurostat al 1° gennaio 2025 (demo_pjan). Le cifre rappresentano gli eventi registrati, non il numero di partecipanti. Le differenze nella copertura di segnalazione possono influenzare i confronti tra i paesi.",
   "textSourceDescription": "Fonte",
-  "textSource": "Progetto di raccolta dati su localizzazione ed eventi di conflitti armati (2026)",
+  "textSource": "Progetto ACLED (2026) sulla localizzazione e la raccolta di dati sugli eventi dei conflitti armati",
   "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui",

@@ -1,10 +1,10 @@
 {
   "title": "¿Dónde suelen salir los europeos a la calle con más frecuencia?",
-  "subtitle": "En 2025, ACLED registró 26 592 manifestaciones en los 27 países de la UE, lo que equivale a 5,90 por cada 100 000 ciudadanos.",
+  "subtitle": "En 2025 se registraron un total de 26.592 manifestaciones en toda la Unión Europea.",
   "textNoteDescription": "Nota",
   "textNote": "Los datos incluyen protestas pacíficas y manifestaciones violentas registradas por ACLED en 2025. Las tasas se calcularon por cada 100 000 habitantes utilizando las cifras de población de Eurostat al 1 de enero de 2025 (demo_pjan). Las cifras representan los eventos registrados, no el número de participantes. Las diferencias en la cobertura de los informes pueden afectar las comparaciones entre países.",
   "textSourceDescription": "Fuente",
-  "textSource": "Proyecto de datos sobre la ubicación y los eventos de conflictos armados (2026)",
+  "textSource": "Proyecto de datos sobre la ubicación y los eventos de conflictos armados - ACLED (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí",

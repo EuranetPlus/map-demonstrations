@@ -1,10 +1,10 @@
 {
   "title": "Kde Európania najčastejšie vychádzajú do ulíc?",
-  "subtitle": "V roku 2025 zaznamenala ACLED 26 592 demonštrácií v celej EÚ27, čo zodpovedá 5,90 na 100 000 občanov.",
+  "subtitle": "V roku 2025 sa v Európskej únii konalo celkovo 26 592 demonštrácií.",
   "textNoteDescription": "Poznámka",
   "textNote": "Údaje zahŕňajú pokojné protesty a násilné demonštrácie zaznamenané ACLED v roku 2025. Miery boli vypočítané na 100 000 občanov s použitím údajov Eurostatu o počte obyvateľov k 1. januáru 2025 (demo_pjan). Čísla predstavujú zaznamenané udalosti, nie počet účastníkov. Rozdiely v pokrytí hlásení môžu ovplyvniť porovnania medzi krajinami.",
   "textSourceDescription": "Zdroj",
-  "textSource": "Projekt údajov o miestach a udalostiach ozbrojených konfliktov (2026)",
+  "textSource": "Projekt údajov o miestach a udalostiach ozbrojených konfliktov - ACLED (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem",

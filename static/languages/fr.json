@@ -1,10 +1,10 @@
 {
   "title": "Où les Européens descendent-ils le plus souvent dans la rue ?",
-  "subtitle": "En 2025, ACLED a enregistré 26 592 manifestations dans l'UE27, soit 5,90 pour 100 000 citoyens.",
+  "subtitle": "Au total, 26 592 manifestations ont eu lieu dans l'Union européenne en 2025.",
   "textNoteDescription": "Note",
   "textNote": "Les données incluent les manifestations pacifiques et les manifestations violentes recensées par ACLED en 2025. Les taux ont été calculés pour 100 000 habitants à partir des chiffres de population d’Eurostat au 1er janvier 2025 (demo_pjan). Ces chiffres correspondent aux événements recensés, et non au nombre de participants. Les différences de couverture des données peuvent affecter les comparaisons entre pays.",
   "textSourceDescription": "Source",
-  "textSource": "Projet de données sur la localisation et les événements des conflits armés (2026)",
+  "textSource": "Projet de données sur la localisation et les événements des conflits armés - ACLED (2026)",
   "linkDataAccessDescription": "Accéder aux données",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici",

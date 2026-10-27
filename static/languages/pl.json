@@ -1,10 +1,10 @@
 {
   "title": "Gdzie Europejczycy najczęściej wychodzą na ulice?",
-  "subtitle": "W 2025 r. ACLED odnotowało 26 592 demonstracji w 27 państwach członkowskich UE, co odpowiada 5,90 demonstracjom na 100 000 obywateli.",
+  "subtitle": "W 2025 roku w całej Unii Europejskiej odbyło się łącznie 26 592 demonstracji.",
   "textNoteDescription": "Notatka",
   "textNote": "Dane obejmują pokojowe protesty i gwałtowne demonstracje zarejestrowane przez ACLED w 2025 roku. Wskaźniki obliczono na 100 000 obywateli, wykorzystując dane Eurostatu dotyczące liczby ludności na dzień 1 stycznia 2025 roku (demo_pjan). Liczby te dotyczą zarejestrowanych wydarzeń, a nie liczby uczestników. Różnice w zakresie raportowania mogą mieć wpływ na porównania między krajami.",
   "textSourceDescription": "Źródło",
-  "textSource": "Projekt danych o lokalizacji i wydarzeniach konfliktów zbrojnych (2026)",
+  "textSource": "Projekt danych o lokalizacji i wydarzeniach konfliktów zbrojnych – ACLED (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj",

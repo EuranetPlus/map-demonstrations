@@ -1,10 +1,10 @@
 {
   "title": "Missä eurooppalaiset useimmiten menevät kaduille?",
-  "subtitle": "Vuonna 2025 ACLED kirjasi 26 592 mielenosoitusta EU27-alueella, mikä vastaa 5,90 mielenosoitusta 100 000 kansalaista kohden.",
+  "subtitle": "Vuonna 2025 Euroopan unionissa järjestettiin yhteensä 26 592 mielenosoitusta.",
   "textNoteDescription": "Huomautus",
   "textNote": "Tiedot sisältävät ACLED:n vuonna 2025 kirjaamat rauhanomaiset ja väkivaltaiset mielenosoitukset. Luvut laskettiin 100 000 kansalaista kohden käyttäen Eurostatin väestölukuja 1. tammikuuta 2025 (demo_pjan). Luvut edustavat kirjattuja tapahtumia, eivät osallistujien määrää. Raportoinnin kattavuuden erot voivat vaikuttaa maiden välisiin vertailuihin.",
   "textSourceDescription": "Lähde",
-  "textSource": "Aseellisten konfliktien sijainti- ja tapahtumatietohanke (2026)",
+  "textSource": "Aseellisten konfliktien sijainti- ja tapahtumatietohanke - ACLED (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
   "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä",

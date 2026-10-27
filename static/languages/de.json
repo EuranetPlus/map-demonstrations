@@ -1,10 +1,10 @@
 {
   "title": "Wo gehen die Europäer am häufigsten auf die Straße?",
-  "subtitle": "Im Jahr 2025 verzeichnete ACLED 26.592 Demonstrationen in der gesamten EU27, was 5,90 Demonstrationen pro 100.000 Einwohner entspricht.",
+  "subtitle": "Im Jahr 2025 fanden in der gesamten Europäischen Union insgesamt 26.592 Demonstrationen statt.",
   "textNoteDescription": "Notiz",
   "textNote": "Die Daten umfassen friedliche Proteste und gewalttätige Demonstrationen, die von ACLED im Jahr 2025 erfasst wurden. Die Raten wurden pro 100.000 Einwohner anhand der Eurostat-Bevölkerungszahlen vom 1. Januar 2025 (demo_pjan) berechnet. Die Zahlen geben die erfassten Ereignisse wieder, nicht die Teilnehmerzahl. Unterschiede in der Erfassungsquote können Vergleiche zwischen Ländern beeinflussen.",
   "textSourceDescription": "Quelle",
-  "textSource": "Projekt zur Erfassung von Standort- und Ereignisdaten bewaffneter Konflikte (2026)",
+  "textSource": "Projekt zur Erfassung von Standort- und Ereignisdaten bewaffneter Konflikte – ACLED (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier",
